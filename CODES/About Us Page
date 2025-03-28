@@ -17,6 +17,7 @@
         <li><a href="aboutUs.php">About Us</a></li>
       </ul>
     </nav>
+    
   </header>
 
   <section class="about-container">

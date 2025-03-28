@@ -8,7 +8,6 @@ Product Backlog for Lost & Found Hub Webpage
 
 PRODUCT BACKLOG ITEMS 
 
-
 Backlog Items	Description
 
 As a visitor, I want to see a homepage with a clear layout, so that I can navigate easily.	(Design and develop the homepage UI)
@@ -42,4 +41,5 @@ As a user, I want to see a list of recently lost/found items, so that I can chec
 
 As a user, I want to send and receive messages with a finder, so that I can arrange item recovery.	(Implement a messaging system between item owners and finders.)
 
-As a user, I want to log in using Google or Facebook, so that I can sign in faster.	(Social media login (Google, Facebook).)
+As a user, I want to log in using Google or Facebook, so that I can sign in faster.	
+(Social media login (Google, Facebook).)
