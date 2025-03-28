@@ -29,17 +29,17 @@ As a user, I want to fill out a form to report a found item, so that the rightfu
 
 As a user, I want to receive a unique reference ID for my report, so that I can track its progress.	(Generate a unique reference ID for each reported item.)
 
-As a user, I want an intelligent system to match lost and found items, so that I can get notified when there’s a potential match.	(Implement an algorithm to match lost and found items based on descriptions.)
+As a user, I want an intelligent system to match lost and found items, so that I can get notified when there’s a potential match.	(Implement an algorithm to match lost and found items based on descriptions)
 
-As a user, I want to receive a notification when a match is found, so that I can contact the finder. (Notify users when a match is found.)
+As a user, I want to receive a notification when a match is found, so that I can contact the finder. (Notify users when a match is found)
 
-As an admin, I want to generate reports on item recovery statistics, so that I can track the platform’s efficiency. (Generate reports on item recovery statistics.)
+As an admin, I want to generate reports on item recovery statistics, so that I can track the platform’s efficiency. (Generate reports on item recovery statistics)
 
-As a user, I want to search for lost and found items, so that I can quickly find relevant matches.	(Implement a search feature for lost and found items.)
+As a user, I want to search for lost and found items, so that I can quickly find relevant matches.	(Implement a search feature for lost and found items)
 
-As a user, I want to see a list of recently lost/found items, so that I can check for my item updates.	(Display recent lost/found items dynamically.)
+As a user, I want to see a list of recently lost/found items, so that I can check for my item updates.	(Display recent lost/found items dynamically)
 
-As a user, I want to send and receive messages with a finder, so that I can arrange item recovery.	(Implement a messaging system between item owners and finders.)
+As a user, I want to send and receive messages with a finder, so that I can arrange item recovery.	(Implement a messaging system between item owners and finders)
 
 As a user, I want to log in using Google or Facebook, so that I can sign in faster.	
 (Social media login (Google, Facebook).)
